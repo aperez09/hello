@@ -5,7 +5,7 @@
 
 <h1> Aplicacion de despliegue   </h1>	
 <?php
-echo "Depliegue de aplicaciones trabajadas con serverlees Alex Perez Tesillo";
+echo "Depliegue automatico utilizando github , elastickbenastalk , git pull,code pipeline";
 
 ?>
 
